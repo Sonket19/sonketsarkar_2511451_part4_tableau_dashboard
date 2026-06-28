@@ -1,0 +1,26 @@
+{
+    "Sales_Trend": {
+        "chart": "Dual-Axis Line",
+        "why": "Shows Sales & Profit trends simultaneously on same time axis"
+    },
+    "Category_Performance": {
+        "chart": "Side-by-Side Bar",
+        "why": "Enables direct comparison of Sales vs Profit across categories"
+    },
+    "Regional_Heatmap": {
+        "chart": "Filled Map + Bar",
+        "why": "Geographic encoding for spatial revenue distribution by state"
+    },
+    "Channel_Attribution": {
+        "chart": "Horizontal Bar",
+        "why": "Ranked channel comparison; easy to read text labels for channel names"
+    },
+    "Customer_Segment_Analysis": {
+        "chart": "Grouped Bar",
+        "why": "Compare multiple metrics (AOV, Profit) across customer segments"
+    },
+    "Delivery_Analysis": {
+        "chart": "Box Plot / Bar",
+        "why": "Shows distribution of customer rating by delivery speed category"
+    }
+}

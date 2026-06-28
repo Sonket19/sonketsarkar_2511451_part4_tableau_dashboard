@@ -1,0 +1,31 @@
+{
+    "title": "FY2024-25 Executive Sales Review",
+    "audience": "CEO, CFO, Regional Directors",
+    "pages": [
+        {
+            "page": 1,
+            "title": "Performance Overview",
+            "narrative": "Total revenue stands at \u20b9208,255,582 with an average margin of 13.26%. Customer rating averages 4.08/5."
+        },
+        {
+            "page": 2,
+            "title": "Category Deep-Dive",
+            "narrative": "Technology dominates revenue. Furniture requires margin improvement attention."
+        },
+        {
+            "page": 3,
+            "title": "Regional & Channel Mix",
+            "narrative": "South leads regionally. Organic is the top acquisition channel."
+        },
+        {
+            "page": 4,
+            "title": "Customer Experience",
+            "narrative": "Return rate at 4.55%. Delivery speed improvements can drive rating uplift."
+        },
+        {
+            "page": 5,
+            "title": "Strategic Priorities",
+            "narrative": "Expand top category, fix margin leakage in weak categories, optimise channel spend, target delivery SLA \u22645 days."
+        }
+    ]
+}

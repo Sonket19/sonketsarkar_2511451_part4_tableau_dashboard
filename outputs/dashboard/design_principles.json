@@ -1,0 +1,7 @@
+{
+    "colour_scheme": "Blue (#2E86AB) for Sales, Green (#A8C256) for Profit, Red (#E84855) for Returns/Losses",
+    "layout": "2x3 dashboard grid: KPI cards top, trend chart middle, breakdown charts bottom",
+    "interactivity": "Region filter, Category filter, Date range slider, Customer segment quick filter",
+    "accessibility": "Colourblind-safe palette, tooltip annotations, axis labels on all charts",
+    "font": "Tableau Book 10pt for body, 12pt bold for KPI values"
+}

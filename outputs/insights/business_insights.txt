@@ -1,0 +1,43 @@
+
+============================================================
+EXECUTIVE DASHBOARD – BUSINESS INSIGHTS
+============================================================
+Date    : 2026-06-29
+Analyst : sonketsarkar (2511451)
+Dataset : 4,200 orders | 2024–2025
+
+KEY PERFORMANCE INDICATORS
+  Total Revenue        : ₹208,255,581.97
+  Total Profit         : ₹32,234,192.58
+  Avg Profit Margin    : 13.26%
+  Total Orders         : 4,009
+  Return Rate          : 4.55%
+  Avg Customer Rating  : 4.08 / 5.0
+  Unique Customers     : 3,911
+
+INSIGHT 1 – TOP CATEGORY
+  Technology is the highest-revenue category (₹153,895,268),
+  with a profit margin of 18.22%.
+  → Action: Protect and expand sub-categories within Technology.
+
+INSIGHT 2 – MARGIN CONCERN
+  Furniture has the lowest margin (6.89%) and a
+  return rate of 7.67%. Margin erosion risk is highest here.
+  → Action: Review pricing strategy and discount policies for Furniture.
+
+INSIGHT 3 – TOP CHANNEL
+  Organic is the leading acquisition channel (₹85,041,168 revenue).
+  → Action: Increase Organic marketing budget allocation.
+
+INSIGHT 4 – REGIONAL PERFORMANCE
+  South region leads with ₹61,980,264 revenue.
+  → Action: Replicate South region's playbook in underperforming regions.
+
+INSIGHT 5 – DELIVERY vs RATING
+  Delivery speed directly impacts customer satisfaction.
+  → Action: Set a target of ≤5 day delivery across all ship modes.
+
+INSIGHT 6 – RETURN RATE
+  Overall return rate is 4.55%. High-discount orders correlate with returns.
+  → Action: Monitor discount-to-return correlation; introduce discount approval thresholds.
+============================================================
